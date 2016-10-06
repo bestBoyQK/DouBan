@@ -1,0 +1,11 @@
+
+#define ACTIVITYLISTURL @"http://project.lanou3g.com/teacher/yihuiyun/lanouproject/activitylist.php"
+
+#define MOVIEURL @"http://project.lanou3g.com/teacher/yihuiyun/lanouproject/movielist.php"
+#define SEARCHMOVIEURL @"http://project.lanou3g.com/teacher/yihuiyun/lanouproject/searchmovie.php?movieId="
+
+#define CINEMALISTURL @"http://project.lanou3g.com/teacher/yihuiyun/lanouproject/cinemalist.php"
+#define SEARCHCIMEMAURL @"http://project.lanou3g.com/teacher/yihuiyun/lanouproject/searchcinema.php?cinemaId="
+
+#define kScreenWidth [UIScreen mainScreen].bounds.size.width
+#define kScreenHeight [UIScreen mainScreen].bounds.size.height

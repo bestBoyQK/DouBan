@@ -2,9 +2,7 @@
 //  AppDelegate.m
 //  DouBan
 //
-//  Created by lanou3g on 16/1/4.
-//  Copyright © 2016年 lanou3g. All rights reserved.
-//
+
 
 #import "AppDelegate.h"
 
@@ -16,7 +14,10 @@
 
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
-    // Override point for customization after application launch.
+
+    
+    [[UINavigationBar appearance] setBarTintColor:[UIColor colorWithPatternImage:[UIImage imageNamed:@"bg_nav"]]];
+    
     return YES;
 }
 

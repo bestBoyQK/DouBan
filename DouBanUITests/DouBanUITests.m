@@ -2,9 +2,7 @@
 //  DouBanUITests.m
 //  DouBanUITests
 //
-//  Created by lanou3g on 16/1/4.
-//  Copyright © 2016年 lanou3g. All rights reserved.
-//
+
 
 #import <XCTest/XCTest.h>
 
